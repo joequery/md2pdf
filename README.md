@@ -8,6 +8,7 @@ Requirements
 ------------
 
 * Python 2.6+
+* [Pillow dependencies](https://pillow.readthedocs.org/en/3.0.0/installation.html#linux-installation)
 
 Installation
 ------------
